@@ -14,4 +14,13 @@ If your Agon has an earlier version of the Quark Firmware installed use the inst
 
 Note this may work with other Agon versions, but I have only tested it on the AgonLight2.
 
+# Other useful Agon repositories
+Dean Belfield working on the official Quark firmware for the Agon Light microcomputer board - https://github.com/breakintoprogram
+
+A batteries-included SDCard template for Agon Light / Agon Light 2 / Console8 - https://github.com/tomm/popup-mos
+
+Agon Console8 from heber.co.uk - https://github.com/AgonConsole8
+
+Official Agon Light Wiki - https://github.com/breakintoprogram/agon-docs/wiki
+
 
