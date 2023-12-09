@@ -12,3 +12,5 @@ Once at version 1.04 then both the MOS and VDP can be updated using the agon-fla
 
 If your Agon has an earlier version of the Quark Firmware installed use the instruction at https://github.com/breakintoprogram/agon-docs/wiki/Updating-Firmware
 
+Note this may work with other Agon versions, but I have only tested it on the AgonLight2
+
