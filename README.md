@@ -19,8 +19,11 @@ Dean Belfield working on the official Quark firmware for the Agon Light microcom
 
 A batteries-included SDCard template for Agon Light / Agon Light 2 / Console8 - https://github.com/tomm/popup-mos
 
+A bash script to automatically download the latest binary versions of several tools and utilities for AgonLight - https://github.com/envenomator/agon-start
+
 Agon Console8 from heber.co.uk - https://github.com/AgonConsole8
 
 Official Agon Light Wiki - https://github.com/breakintoprogram/agon-docs/wiki
 
 A list of Software for the Agon Light - https://github.com/sabotrax/agon-software
+
