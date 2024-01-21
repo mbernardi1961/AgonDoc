@@ -21,7 +21,7 @@ A batteries-included SDCard template for Agon Light / Agon Light 2 / Console8 - 
 
 A bash script to automatically download the latest binary versions of several tools and utilities for AgonLight - https://github.com/envenomator/agon-start
 
-OLIMEX AgonLight2 Documentation - https://github.com/OLIMEX/AgonLight2/blob/main/DOCUMENTATION/
+OLIMEX AgonLight2 Documentation (not necessarily latest versions) - https://github.com/OLIMEX/AgonLight2/blob/main/DOCUMENTATION/
 
 Agon Console8 from heber.co.uk - https://github.com/AgonConsole8
 
