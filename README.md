@@ -1,6 +1,6 @@
 # Newbie FAQ for AgonLight2 - How to update Firmware
 
-<bold>For new owners of the AgonLight2 who wish to upgrade the Quark Firmware on their newly purchased device</bold>.
+<b>For new owners of the AgonLight2 who wish to upgrade the Quark Firmware on their newly purchased device</b>.
 
 The AgonLight microcomputer was designed to allow its firmware to be upgraded, but initially it required special hardware to do so.
 In January 2023 a software solution was developed which can be found at https://github.com/envenomator/agon-flash/.
