@@ -24,7 +24,8 @@ A bash script to automatically download the latest binary versions of several to
 
 OLIMEX AgonLight2 Documentation (not necessarily latest versions) - https://github.com/OLIMEX/AgonLight2/blob/main/DOCUMENTATION/
 
-Agon Console8 from heber.co.uk - https://github.com/AgonConsole8<br>
+Agon Console8 from heber.co.uk - https://github.com/AgonConsole8
+
 Note the AgonConsole8 firmware can also be flashed to the AgonLight2 and vice versa. The AgonConsole8 tends to be developed more rapidly.
 
 Official Agon Light Wiki - https://github.com/breakintoprogram/agon-docs/wiki
