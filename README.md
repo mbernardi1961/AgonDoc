@@ -30,3 +30,4 @@ Official Agon Light Wiki - https://github.com/breakintoprogram/agon-docs/wiki
 
 A list of Software for the Agon Light - https://github.com/sabotrax/agon-software
 
+BBC BASIC (Z80) Manual for the Agon Light (under revision, generates epub) - https://github.com/oldpatientsea/agon-bbc-basic-manual
