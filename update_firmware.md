@@ -1,4 +1,4 @@
-# How to update Firmware
+# How to update AgonLight Firmware
 
 <b>For new owners of the AgonLight2 who wish to upgrade the Quark Firmware on their newly purchased device</b>.
 
@@ -15,3 +15,4 @@ If your Agon has an earlier version of the Quark Firmware installed use the inst
 
 Note this may work with other Agon versions, but I have only tested it on the AgonLight2.
 
+Once you have the Quark Firmware version 1.04 installed you can use the [flash software](https://github.com/envenomator/agon-flash/) to update to newer versions. This includes the version for the [Console 8](https://github.com/AgonConsole8).
