@@ -11,3 +11,6 @@ This Google Doc file contains known working keyboards (it is of course incomplet
 
 [MOD-WIFI-ESP8266](https://www.olimex.com/Products/IoT/ESP8266/MOD-WIFI-ESP8266/open-source-hardware) is a UEXT expansion module with a ESP8266 UART to WIFI IC. With this module you can add WIFI capablities to the AgonLight2. Software to allow use of the module can be found on [GitHub](
 https://github.com/nihirash/Agon-MOS-Tools/tree/main/esp8266)
+
+[Console8 compatible joystick interface for AgonLight2](https://www.pcbway.com/project/shareproject/Agon_ARCADE_Joystick_Interface_893b9d84.html
+) available from PCBWay.
