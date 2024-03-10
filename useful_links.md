@@ -1,4 +1,4 @@
-# Other useful Agon repositories
+no# Other useful Agon repositories
 
 Dean Belfield working on the official Quark firmware for the Agon Light microcomputer board - https://github.com/breakintoprogram
 
@@ -14,6 +14,6 @@ Note the AgonConsole8 firmware can also be flashed to the AgonLight2 and vice ve
 
 Official Agon Light Wiki - https://github.com/breakintoprogram/agon-docs/wiki
 
-A list of Software for the Agon Light - https://github.com/sabotrax/agon-software
+A list of Software for the Agon Light - https://github.com/sabotrax/agon-software<br>The most comprehensive list of software for the Agon Light.
 
 BBC BASIC (Z80) Manual for the Agon Light (under revision, generates epub) - https://github.com/oldpatientsea/agon-bbc-basic-manual
