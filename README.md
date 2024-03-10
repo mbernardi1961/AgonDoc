@@ -1,4 +1,6 @@
-# Documentation related to the AgonLight mini computer (and it's various incarnations).
+# Documentation for AgonLight
+
+Links to documentation related to the AgonLight mini computer (and it's various incarnations).
 
 [Other useful Agon repositories](https://github.com/mbernardi1961/AgonDoc/blob/main/useful_links.md)
 
