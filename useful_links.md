@@ -6,7 +6,7 @@ A batteries-included SD Card template for AgonLight / AgonLight2 / Console8 - ht
 
 A bash script to automatically download the latest binary versions of several tools and utilities for AgonLight - https://github.com/envenomator/agon-start
 
-Agon Mite a software distribution for the  AgonLight - 
+Agon Mite 24.03 a software distribution for the  AgonLight - 
 https://agonmite.gluonspace.com/
 
 OLIMEX AgonLight2 Documentation (not necessarily latest versions) - https://github.com/OLIMEX/AgonLight2/blob/main/DOCUMENTATION/
