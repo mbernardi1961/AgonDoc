@@ -9,7 +9,7 @@ The UEXT (Universal-EXTension-Connector) connection was developed by [OLiMEX](ht
 
 [AgonLight2-Proto](https://www.olimex.com/Products/Retro-Computers/AgonLight2-Proto/open-source-hardware) is a small board with dimensions 100x80mm. It allows you to fast prototype hardware concepts and ideas for AgonLight2 computer.
 
-[UEXT Port Splitter and Extender](https://www.olimex.com/Products/Modules/Adapters/UEXTx5/open-source-hardware) with 5 UEXT Connectors wired in parallel.
+[UEXT Port Splitter and Extender](https://www.olimex.com/Products/Modules/Adapters/UEXTx5/open-source-hardware) with 5 UEXT Connectors wired in parallel. Allowing multiple modules to be connected at the same time.
 
 [MOD-WIFI-ESP8266](https://www.olimex.com/Products/IoT/ESP8266/MOD-WIFI-ESP8266/open-source-hardware) is a UEXT expansion module with a ESP8266 UART to WIFI IC. With this module you can add WIFI capablities to the AgonLight2. 
 
