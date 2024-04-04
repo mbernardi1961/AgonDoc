@@ -1,4 +1,4 @@
-##Other useful AgonLight repositories
+# Other useful AgonLight repositories
 
 Dean Belfield working on the official Quark firmware for the AgonLight microcomputer board - https://github.com/breakintoprogram
 
