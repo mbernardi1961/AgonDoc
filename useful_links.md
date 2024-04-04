@@ -6,8 +6,7 @@ A batteries-included SD Card template for AgonLight / AgonLight2 / Console8 - ht
 
 A bash script to automatically download the latest binary versions of several tools and utilities for AgonLight - https://github.com/envenomator/agon-start
 
-Agon Mite 24.04 a software distribution for the  AgonLight - 
-https://www.agonmite.com
+Agon Mite 24.04 a software distribution for the  AgonLight - https://www.agonmite.com
 
 OLIMEX AgonLight2 Documentation (not necessarily latest versions) - https://github.com/OLIMEX/AgonLight2/blob/main/DOCUMENTATION/
 
@@ -16,6 +15,8 @@ AgonConsole8 from heber.co.uk - https://github.com/AgonConsole8
 Note the AgonConsole8 firmware can also be flashed to the AgonLight2 and vice versa. The AgonConsole8 tends to be developed more rapidly.
 
 Official AgonLight Wiki - https://github.com/breakintoprogram/agon-docs/wiki
+
+Community Agon Console8 documentation - https://github.com/AgonConsole8/agon-docs
 
 A list of Software for the AgonLight - https://github.com/sabotrax/agon-software<br>The most comprehensive list of software for the AgonLight.
 
