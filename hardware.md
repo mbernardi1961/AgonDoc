@@ -15,8 +15,9 @@ The UEXT (Universal-EXTension-Connector) connection was developed by [OLiMEX](ht
 
 [MOD-RS232](https://www.olimex.com/Products/Modules/Interface/MOD-RS232/open-source-hardware) is an RS232 level-shifter with UEXT connector. Using this module you can connect an AgonLight2 to an RS232 device.
 
-[Console8 compatible joystick interface for AgonLight2](https://www.pcbway.com/project/shareproject/Agon_ARCADE_Joystick_Interface_893b9d84.html
-) available from PCBWay.
+[Console8 compatible joystick interface for AgonLight2](https://www.pcbway.com/project/shareproject/Agon_ARCADE_Joystick_Interface_893b9d84.html) available from PCBWay.
+
+<!-- [Console8 compatible joystick and mouse interface for AgonLight2](https://github.com/BlastBrothers/agon-mega-io) currently in a breadboard state. -->
 
 # Documentation related to the above hardware
 
