@@ -23,7 +23,8 @@ The UEXT (Universal-EXTension-Connector) connection was developed by [OLiMEX](ht
 
 Software to allow use of the MOD-WiFi module can be found on [GitHub](
 https://github.com/nihirash/Agon-MOS-Tools/tree/main/esp8266).
-
+<!-- Addition documentation for neo6502 - 
+https://www.makerhacks.com/neo6502-serial-wifi/ -->
 Documentation on how to use the  AgonLight2-Proto board can be found on [GitHub](https://github.com/OLIMEX/AgonLight2-Proto).
 
 Documentation on how to use the 
