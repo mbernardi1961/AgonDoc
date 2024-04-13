@@ -5,6 +5,8 @@ Links to documentation related to the AgonLight mini computer (and it's various 
 
 [Comprehensive Agon - FAQ](https://github.com/AgonConsole8/agon-docs/blob/main/FAQ.md)
 
+[Understanding the Agon Light computer platform](https://agonconsole8.github.io/agon-docs/Theory-of-operation/)
+
 [Other useful AgonLight repositories](https://github.com/mbernardi1961/AgonDoc/blob/main/useful_links.md)
 
 [How to update AgonLight Firmware](https://github.com/mbernardi1961/AgonDoc/blob/main/update_firmware.md)
