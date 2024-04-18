@@ -17,3 +17,4 @@ Note this may work with other Agon versions, but I have only tested it on the Ag
 
 Once you have the Quark Firmware version 1.04 installed you can use the [flash software](https://github.com/envenomator/agon-flash/) to update to newer versions. This includes the version for the [Console 8](https://github.com/AgonConsole8).
 <!-- Quark Firmware can be found as {MOS}(mos.bin) and {VDP}(firmware.bin) -->
+A new tool (April 2024) Agon VDP installer - to flash VDP ia available at https://envenomator.github.io/. You still need to connect your Agon Light to your PC via USB connector.
