@@ -17,7 +17,7 @@ The UEXT (Universal-EXTension-Connector) connection was developed by [OLiMEX](ht
 
 [Console8 compatible joystick interface for AgonLight2](https://www.pcbway.com/project/shareproject/Agon_ARCADE_Joystick_Interface_893b9d84.html) available from PCBWay.
 
-<!-- [Console8 compatible joystick and mouse interface for AgonLight2](https://github.com/BlastBrothers/agon-mega-io) currently in a breadboard state. -->
+[Prototype joystick and mouse interface for AgonLight2](https://github.com/BlastBrothers/agon-mega-io) currently in a breadboard state.
 
 # Documentation related to the above hardware
 
