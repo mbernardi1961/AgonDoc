@@ -18,4 +18,4 @@ Community Agon Platform documentation - https://agonplatform.github.io/agon-docs
 
 A list of Software for the AgonLight - https://github.com/sabotrax/agon-software<br>The most comprehensive list of software for the AgonLight.
 
-BBC BASIC (Z80) Manual for the AgonLight (now archived, generates epub) - https://github.com/oldpatientsea/agon-bbc-basic-manual
+BBC BASIC (Z80) Manual for the AgonLight - https://oldpatientsea.github.io/agon-bbc-basic-manual/0.1/bbc1.html
