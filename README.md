@@ -5,7 +5,7 @@ Links to documentation related to the AgonLight mini computer (and it's various 
 
 [Comprehensive Agon - FAQ](https://agonplatform.github.io/agon-docs/FAQ/)
 
-[Understanding the Agon Light computer platform](https://agonconsole8.github.io/agon-docs/Theory-of-operation/)
+[Understanding the Agon Light computer platform](https://agonplatform.github.io/agon-docs/Theory-of-operation/)
 
 [Other useful AgonLight repositories](https://github.com/mbernardi1961/AgonDoc/blob/main/useful_links.md)
 
