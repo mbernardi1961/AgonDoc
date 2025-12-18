@@ -3,7 +3,7 @@
 Links to documentation related to the AgonLight mini computer (and it's various incarnations).
 
 
-[Comprehensive Agon - FAQ]([https://agonplatform.github.io/agon-docs/FAQ/])
+[Comprehensive Agon - FAQ](https://agonplatform.github.io/agon-docs/FAQ/)
 
 [Understanding the Agon Light computer platform](https://agonconsole8.github.io/agon-docs/Theory-of-operation/)
 
