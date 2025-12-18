@@ -14,7 +14,7 @@ Note the AgonConsole8 firmware can also be flashed to the AgonLight2 and vice ve
 
 Official AgonLight Wiki - https://github.com/breakintoprogram/agon-docs/wiki
 
-Community Agon Console8 documentation - https://github.com/AgonConsole8/agon-docs<br>This is a colaborative effort on documenting the Agon eco-system.
+Community Agon Platform documentation - https://agonplatform.github.io/agon-docs/<br>This is a colaborative effort on documenting the Agon eco-system.
 
 A list of Software for the AgonLight - https://github.com/sabotrax/agon-software<br>The most comprehensive list of software for the AgonLight.
 
