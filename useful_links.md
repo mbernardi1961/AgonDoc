@@ -10,7 +10,7 @@ OLIMEX AgonLight2 Documentation (not necessarily latest versions) - https://gith
 
 AgonConsole8 from heber.co.uk - https://github.com/AgonConsole8
 
-Note the AgonConsole8 firmware can also be flashed to the AgonLight2 and vice versa. The AgonConsole8 tends to be developed more rapidly by the community.
+Note the AgonConsole8 firmware can also be flashed to the AgonLight2 and vice versa. The Agon Platform Firmware tends to be developed more rapidly by the community.
 
 Official AgonLight Wiki - https://github.com/breakintoprogram/agon-docs/wiki
 
