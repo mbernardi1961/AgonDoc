@@ -4,7 +4,7 @@ Dean Belfield working on the official Quark firmware for the AgonLight microcomp
 
 A batteries-included SD Card template for AgonLight / AgonLight2 / Console8 - https://github.com/tomm/popup-mos
 
-Agon Mite 24.10 a software distribution for the  AgonLight - https://www.agonmite.com
+Agon Mite 24.10 a software distribution for the  AgonLight - https://www.agonmite.com  ( Domain no longer valid)
 
 OLIMEX AgonLight2 Documentation (not necessarily latest versions) - https://github.com/OLIMEX/AgonLight2/blob/main/DOCUMENTATION/
 
